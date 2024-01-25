@@ -1,2 +1,2 @@
 # Stat184
-Work saved from the class Stat 184
+Test repository created for Stat 184
